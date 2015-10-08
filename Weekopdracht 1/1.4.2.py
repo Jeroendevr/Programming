@@ -1,11 +1,5 @@
 __author__ = 'jeroendevries'
-import turtle
-import numpy as np
 
-
-# t = turtle.Turtle()
-# t.screen.bgcolor("yellow")
-# turtle.mainloop()
 def welkom():
     print("Welkom bij de NS")
     print("Hier zijn uw reisgegevens:")

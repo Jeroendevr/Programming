@@ -57,8 +57,6 @@ def eindstation():
     t.write("Het eindstation is " + e_s, font=font)
     t.forward(20)
 
-def
-
 def afstand():
     t.write("De afstand bedraagt 9 stations.",font=font)
     t.forward(40)
@@ -73,10 +71,6 @@ trein_traject = ["Schagen", "Huurhugowaard","Alkmaar","Castricum","Zaandam","Ams
 
 rit_prijs = 5
 welkom()
-#beginstation()
-#eindstation()
-#afstand()
-#prijs()
 
 reis()
 turtle.mainloop()
