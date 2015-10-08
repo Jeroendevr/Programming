@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <perrons>
+            <perron>Weg</perron>
+            <perron>Laan</perron>
+            <perron>Straat</perron>
+            <perron>Pad</perron>
+            <perron>Steeg</perron>
+</perrons>
